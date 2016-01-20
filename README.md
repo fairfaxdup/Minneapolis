@@ -7,7 +7,7 @@ You want to put your data on a searchable, filterable map. This is a free, open 
 
 ## Features
 
-* full screen, iframe and content templates
+* FAIRFAX full screen, iframe and content templates
 * display up to 100,000 map points
 * address search (with variable radius and geocomplete)
 * geolocation (find me!)
