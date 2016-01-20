@@ -304,7 +304,7 @@
  
  MapsLib.prototype.getList = function(whereClause) {
  var self = this;
- var selectColumns = 'name, fulladdress, status, contact ';
+ var selectColumns = 'name, fulladdress, status, contact';
  
  self.query({
             select: selectColumns,
