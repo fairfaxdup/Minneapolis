@@ -1,4 +1,4 @@
-(function (window, undefined) {
+html(function (window, undefined) {
     var MapsLib = function (options) {
         var self = this;
 
